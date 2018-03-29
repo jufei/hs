@@ -461,3 +461,4 @@ if __name__ == '__main__':
     helper.max_hour = int(sys.argv[2])
     helper.run()
     # helper.activate_platform()
+
